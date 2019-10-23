@@ -54,6 +54,16 @@
                 </TableGenerateConfig>
               </value>
             </entry>
+            <entry key="video:tb_permission">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="id" />
+                  <option name="javaModelName" value="TbPermission" />
+                  <option name="moduleName" value="spring-security-oauth2-resource" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
           </map>
         </option>
         <option name="useCommonMapper" value="true" />
